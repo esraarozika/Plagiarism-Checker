@@ -34,16 +34,14 @@ A simple tool to compare two text files and calculate the percentage of similari
 ---
 
 ## 📂 Folder Structure
+<pre>
+   Plagiarism-Checker/
+   ├── plagiarismChecker.hs   # Main source code
+   ├── file1.txt             
+   ├── file2.txt            
+   └── README.md
+</pre>
 
-Plagiarism-Checker/
-
-├── plagiarismChecker.hs   # Main source code
-
-├── file1.txt             
-
-├── file2.txt            
-
-└── README.md
 
 
 
